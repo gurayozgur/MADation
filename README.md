@@ -30,7 +30,7 @@ Despite significant advancements in face recognition algorithms, morphing attack
 ```
 @inproceedings{madation2025,
   title={MADation: Face Morphing Attack Detection with Foundation Models},
-  author={Caldeira, Eduarda and Ozgur, Guray and Chettaoui, Tahar and Boutros, Fadi and Ramachandra, Raghavendra and Damer, Naser},
+  author={Caldeira, Eduarda and Ozgur, Guray and Chettaoui, Tahar and Ivanovska, Marija and Boutros, Fadi and Struc, Vitomir and Damer, Naser},
   booktitle={WACV WACVMAPA2025 Workshop},
   year={2025},
   institution={Fraunhofer IGD, TU Darmstadt, University of Ljubljana}
