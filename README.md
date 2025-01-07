@@ -11,10 +11,10 @@ Despite significant advancements in face recognition algorithms, morphing attack
 - Comprehensive training and evaluation pipelines for reproducibility.
 
 ![Complete pipeline of MADation](/img/pipeline.jpg)  
-*Morphing attack generation and MADation's pipeline. The left side of the figure depicts a morphing sample and the two bona-fide identities that were morphed to generate it. Keep in mind that attackers commonly choose to morph faces with similar features for higher success. The right side represents MADation's pipeline, consisting of an adapted FM followed by a binary fully connected classification layer. The embedding space of the FM is adapted by fine-tuning the LoRA parameters and the classification layer is simultaneously trained to produce the MAD predictions. Better visualized in colour.*
+*Figure 1: Morphing attack generation and MADation's pipeline. The left side of the figure depicts a morphing sample and the two bona-fide identities that were morphed to generate it. Keep in mind that attackers commonly choose to morph faces with similar features for higher success. The right side represents MADation's pipeline, consisting of an adapted FM followed by a binary fully connected classification layer. The embedding space of the FM is adapted by fine-tuning the LoRA parameters and the classification layer is simultaneously trained to produce the MAD predictions. Better visualized in colour.*
 
 ![Integration of LoRA trainable weights](/img/mha_lora.jpg)  
-*Integration of LoRA trainable weights (orange boxes) in a standard multi-head self-attention block, whose weights are kept frozen (blue boxes). In the proposed framework, MADation, the LoRA adaptation is limited to the $q$ and $v$ matrices, leaving $k$ and $o$ unaltered. Better visualized in colour.*
+*Figure 2: Integration of LoRA trainable weights (orange boxes) in a standard multi-head self-attention block, whose weights are kept frozen (blue boxes). In the proposed framework, MADation, the LoRA adaptation is limited to the q and v matrices, leaving k and o unaltered. Better visualized in colour.*
 
 ## How to replicate
 
