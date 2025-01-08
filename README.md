@@ -102,7 +102,7 @@ All pre-trained models and their respective training logs will be available soon
 
 ## Citation
 ```
-@inproceedings{madation2025,
+@inproceedings{caldeira2025madation,
   title={MADation: Face Morphing Attack Detection with Foundation Models},
   author={Caldeira, Eduarda and Ozgur, Guray and Chettaoui, Tahar and Ivanovska, Marija and Boutros, Fadi and Struc, Vitomir and Damer, Naser},
   booktitle={WACV WACVMAPA2025 Workshop},
