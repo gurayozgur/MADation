@@ -1,6 +1,6 @@
 # MADation: Face Morphing Attack Detection with Foundation Models
 
-This repository contains the official implementation of the paper **"[MADation: Face Morphing Attack Detection with Foundation Models](link-to-paper)"**, accepted at WACV2025 WACVMAPA2025 (Workshop on Manipulation, Generative, Adversarial and Presentation Attacks In Biometrics (MAP-A)).
+This repository contains the official implementation of the paper **"[MADation: Face Morphing Attack Detection with Foundation Models](https://arxiv.org/abs/2501.03800)"**, accepted at WACV2025 WACVMAPA2025 (Workshop on Manipulation, Generative, Adversarial and Presentation Attacks In Biometrics (MAP-A)).
 
 ## Overview
 Despite significant advancements in face recognition algorithms, morphing attacks pose serious threats. MADation leverages foundation models, specifically the CLIP architecture, adapted with LoRA weights, to effectively detect morphing attacks. Our framework achieves competitive results against existing MAD solutions and is released to encourage reproducibility and further research.
@@ -107,7 +107,8 @@ All pre-trained models and their respective training logs will be available soon
   author={Caldeira, Eduarda and Ozgur, Guray and Chettaoui, Tahar and Ivanovska, Marija and Boutros, Fadi and Struc, Vitomir and Damer, Naser},
   booktitle={WACV WACVMAPA2025 Workshop},
   year={2025},
-  institution={Fraunhofer IGD, TU Darmstadt, University of Ljubljana}
+  institution={Fraunhofer IGD, TU Darmstadt, University of Ljubljana},
+  url={https://arxiv.org/abs/2501.03800}
 }
 ```
 
