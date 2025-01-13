@@ -28,7 +28,7 @@ pip install -r requirements.txt
 
 ## Pre-trained Models and Training Logs
 
-All pre-trained models and their respective training logs will be available soon.
+All pre-trained models and their respective training logs are available **[here](https://drive.google.com/drive/folders/1FAZKgy7Bu_MLJh7UIQFtoMUR0aARUP8v?usp=drive_link)**.
 
 ## Key Results
 
