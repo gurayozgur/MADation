@@ -104,12 +104,11 @@ Please see the evaluation protocol in **[SYN-MAD-2022](https://github.com/marcoh
 
 ## Citation
 ```
-@inproceedings{caldeira2025madation,
+@inproceedings{Caldeira_2025_WACV,
   title={MADation: Face Morphing Attack Detection with Foundation Models},
   author={Caldeira, Eduarda and Ozgur, Guray and Chettaoui, Tahar and Ivanovska, Marija and Boutros, Fadi and Struc, Vitomir and Damer, Naser},
-  booktitle={WACV WACVMAPA2025 Workshop},
+  booktitle={Proceedings of the IEEE/CVF Winter Conference on Applications of Computer Vision (WACV) Workshops},
   year={2025},
-  institution={Fraunhofer IGD, TU Darmstadt, University of Ljubljana},
   url={https://arxiv.org/abs/2501.03800}
 }
 ```
