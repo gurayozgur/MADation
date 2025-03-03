@@ -1,6 +1,6 @@
 # MADation: Face Morphing Attack Detection with Foundation Models
 
-This repository contains the official implementation of the paper **"[MADation: Face Morphing Attack Detection with Foundation Models](https://arxiv.org/abs/2501.03800)"**, accepted at WACV2025 Workshops.
+This repository contains the official implementation of the paper **"[MADation: Face Morphing Attack Detection with Foundation Models](https://openaccess.thecvf.com/content/WACV2025W/MAPA/papers/Caldeira_MADation_Face_Morphing_Attack_Detection_with_Foundation_Models_WACVW_2025_paper.pdf)"**, accepted at WACV2025 Workshops.
 
 ## Overview
 Despite significant advancements in face recognition algorithms, morphing attacks pose serious threats. MADation leverages foundation models, specifically the CLIP architecture, adapted with LoRA weights, to effectively detect morphing attacks. Our framework achieves competitive results against existing MAD solutions and is released to encourage reproducibility and further research.
@@ -104,12 +104,13 @@ Please see the evaluation protocol in **[SYN-MAD-2022](https://github.com/marcoh
 
 ## Citation
 ```
-@inproceedings{Caldeira_2025_WACV,
-  title={MADation: Face Morphing Attack Detection with Foundation Models},
-  author={Caldeira, Eduarda and Ozgur, Guray and Chettaoui, Tahar and Ivanovska, Marija and Boutros, Fadi and Struc, Vitomir and Damer, Naser},
-  booktitle={Proceedings of the IEEE/CVF Winter Conference on Applications of Computer Vision (WACV) Workshops},
-  year={2025},
-  url={https://arxiv.org/abs/2501.03800}
+@InProceedings{Caldeira_2025_WACV,
+    author    = {Caldeira, Eduarda and Ozgur, Guray and Chettaoui, Tahar and Ivanovska, Marija and Peer, Peter and Boutros, Fadi and Struc, Vitomir and Damer, Naser},
+    title     = {MADation: Face Morphing Attack Detection with Foundation Models},
+    booktitle = {Proceedings of the Winter Conference on Applications of Computer Vision (WACV) Workshops},
+    month     = {February},
+    year      = {2025},
+    pages     = {1650-1660}
 }
 ```
 
