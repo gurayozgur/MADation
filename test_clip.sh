@@ -1,3 +1,5 @@
+#!/usr/bin/bash
+
 export OMP_NUM_THREADS=2
 export TORCH_DISTRIBUTED_DEBUG=INFO
 export TORCH_HOME="./cache/"
