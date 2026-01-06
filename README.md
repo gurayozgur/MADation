@@ -104,13 +104,26 @@ Please see the evaluation protocol in **[SYN-MAD-2022](https://github.com/marcoh
 
 ## Citation
 ```
-@InProceedings{Caldeira_2025_WACV,
-    author    = {Caldeira, Eduarda and Ozgur, Guray and Chettaoui, Tahar and Ivanovska, Marija and Peer, Peter and Boutros, Fadi and Struc, Vitomir and Damer, Naser},
-    title     = {MADation: Face Morphing Attack Detection with Foundation Models},
-    booktitle = {Proceedings of the Winter Conference on Applications of Computer Vision (WACV) Workshops},
-    month     = {February},
-    year      = {2025},
-    pages     = {1650-1660}
+@inproceedings{DBLP:conf/wacv/CaldeiraOCIPBSD25,
+  author       = {Eduarda Caldeira and
+                  Guray Ozgur and
+                  Tahar Chettaoui and
+                  Marija Ivanovska and
+                  Peter Peer and
+                  Fadi Boutros and
+                  Vitomir Struc and
+                  Naser Damer},
+  title        = {MADation: Face Morphing Attack Detection with Foundation Models},
+  booktitle    = {{IEEE/CVF} Winter Conference on Applications of Computer Vision, {WACV}
+                  2025 - Workshops, Tucson, AZ, USA, February 28 - March 4, 2025},
+  pages        = {1565--1575},
+  publisher    = {{IEEE}},
+  year         = {2025},
+  url          = {https://doi.org/10.1109/WACVW65960.2025.00179},
+  doi          = {10.1109/WACVW65960.2025.00179},
+  timestamp    = {Sat, 06 Sep 2025 20:33:57 +0200},
+  biburl       = {https://dblp.org/rec/conf/wacv/CaldeiraOCIPBSD25.bib},
+  bibsource    = {dblp computer science bibliography, https://dblp.org}
 }
 ```
 
